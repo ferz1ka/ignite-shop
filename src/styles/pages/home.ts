@@ -72,7 +72,7 @@ export const Product = styled('div', {
   borderRadius: '8px',
   cursor: 'pointer',
   position: 'relative',
-  overflow: 'hidden',
+  overflowX: 'scroll',
 
   display: 'flex',
   alignItems: 'center',
