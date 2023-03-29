@@ -4,5 +4,5 @@
 
 ### Dependências
 * Next.js
-* stitches
-* stripe
+* Stitches
+* Stripe
